@@ -13,7 +13,7 @@ En el segundo ejercicio se pedía asignar a la tecla H la función disparo
 
 En la tercera pregunta, se pedía un script asociado al cubo que en cada iteración trasladase al cubo una cantidad proporcional a un vector que indica la dirección del movimiento que debe poder modificarse en el inspector. La velocidad a la que se produce el movimiento también se especifica en el inspector, con la propiedad speed.
 
-![scene3](img/scene3.png)
+![scene3](img/scene3.gif)
 
 Cuando se duplica las coordenadas de la dirección, el cubo viaja el doble de rápido hacia esa dirección, lo mismo pasa cuando se duplica la velocidad de movimiento ya que se multiplica por el propio vector.
 
